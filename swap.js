@@ -13,7 +13,7 @@ class Swap {
         Object.assign(b, tmp);
     }
 }
-if (typeof module !== 'undefined') {
+if (typeof module !== 'undefined' && module.exports) {
     module.exports = Swap;
 }
 //# sourceMappingURL=swap.js.map
