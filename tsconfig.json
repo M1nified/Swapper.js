@@ -3,10 +3,10 @@
     "target":"es6",
     "module":"amd",
     "sourceMap": true,
-    "outFile": "swap.js",
+    "outFile": "swapper.js",
     "watch": true
   },
   "files": [
-    "swap.ts"
+    "swapper.ts"
   ]
 }

@@ -16,4 +16,4 @@ class Swap {
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = Swap;
 }
-//# sourceMappingURL=swap.js.map
+//# sourceMappingURL=swapper.js.map
