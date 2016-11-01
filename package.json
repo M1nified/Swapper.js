@@ -1,0 +1,29 @@
+{
+  "name": "swap",
+  "version": "1.0.0",
+  "description": "Swap",
+  "main": "swap.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M1nified/js-refference-swap.git"
+  },
+  "keywords": [
+    "swap",
+    "object",
+    "array",
+    "refference"
+  ],
+  "author": "M1nified",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/M1nified/js-refference-swap/issues"
+  },
+  "homepage": "https://github.com/M1nified/js-refference-swap#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
