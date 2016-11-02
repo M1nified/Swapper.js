@@ -2,5 +2,5 @@
 
 # Swapper.js
 
-Delivers functions multiple kinds of swapping data.
+Delivers functions for multiple kinds of swapping data.
 
