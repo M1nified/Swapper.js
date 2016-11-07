@@ -1,8 +1,8 @@
 {
   "name": "swapper",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Swap object content and keep refference.",
-  "main": "swapper.js",
+  "main": "build/swapper.js",
   "scripts": {
     "test": "mocha --reporter spec"
   },

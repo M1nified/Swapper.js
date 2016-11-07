@@ -2,11 +2,12 @@
   "compilerOptions":{
     "target":"es6",
     "module":"amd",
+    "declaration": true,
     "sourceMap": true,
-    "outFile": "swapper.js",
+    "outFile": "build/swapper.js",
     "watch": true
   },
-  "files": [
-    "swapper.ts"
+  "include":[
+    "src/*.ts"
   ]
 }

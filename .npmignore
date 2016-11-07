@@ -1,6 +1,5 @@
 node_modules
 .gitignore
 .travis.yml
-swapper.ts
-swapper.js.map
+src
 tsconfig.json
