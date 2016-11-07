@@ -1,5 +1,5 @@
 var should = require('chai').should(),
-  Swap_class = require('./swapper.js');
+  Swap_class = require('../build/swapper.js');
 
 
 describe('Swapper.clean(obj)', function () {

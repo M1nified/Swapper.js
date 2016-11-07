@@ -1,6 +1,6 @@
 {
   "name": "swapper",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Swap object content and keep refference.",
   "main": "build/swapper.js",
   "scripts": {
